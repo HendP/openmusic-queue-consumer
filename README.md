@@ -21,7 +21,7 @@ cd openmusic-queue-consumer
 
 Install library
 ```bash
-npm || yarn install
+npm install || yarn install
 ```
 
 Menyiapkan environment dengan menggunakan .env.template yang tersedia
