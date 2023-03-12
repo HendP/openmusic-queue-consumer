@@ -21,7 +21,6 @@ cd openmusic-queue-consumer
 
 Install library
 ```bash
-# Install deps
 npm || yarn install
 ```
 
